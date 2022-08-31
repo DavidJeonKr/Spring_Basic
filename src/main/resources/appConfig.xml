@@ -16,3 +16,5 @@
     </bean>
     <bean id="discountPoliy" class="hello.core.discount.RateDiscoutnPolicy"/>
 </beans>
+<!--데몬 애플리케이션, 배치 애플리케이션, 웹 애플리케이션, 여러 고객이 동시에 요청을 하기 때문에-->
+<!--AppConfig -->
